@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Connecting Collection</string>
+    <string name="sound">\u0020\u0020\u0020SOUND\u0020\u0020\u0020\u0020</string>
+    <string name="vibration">VIBRATION</string>
+</resources>
